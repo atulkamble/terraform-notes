@@ -1,4 +1,4 @@
-# 🗞 Terraform Notes, Commands, Tutorials & Scenarios
+# 🗞 Terraform Notes, Commands, Tutorials & Scenarios BY @atulkamble
 
 ## 🎯 Terraform Interview Key Points to Remember
 
@@ -542,14 +542,13 @@ terraform init
 terraform apply
 ```
 
-
 ---
+## 👨‍💻 Author
 
-## 📦 Repositories & Learning
-- https://github.com/terraform-aws-modules/
-- https://developer.hashicorp.com/terraform/tutorials
-- https://github.com/gruntwork-io/terragrunt-infrastructure-live-example
+**Atul Kamble**
 
----
-
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
+- 🐙 [GitHub](https://github.com/atulkamble)
+- 🐦 [X](https://x.com/Atul_Kamble)
+- 📷 [Instagram](https://www.instagram.com/atuljkamble)
+- 🌐 [Website](https://www.atulkamble.in)
