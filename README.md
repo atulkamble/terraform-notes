@@ -1,4 +1,4 @@
-# 🗞 Terraform Notes, Commands, Tutorials & Scenarios BY @atulkamble
+# 🗞 Terraform Notes, Commands, Tutorials & Scenarios by @atulkamble
 
 ## 🎯 Terraform Interview Key Points to Remember
 
